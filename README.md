@@ -12,7 +12,7 @@ pip3 install opencv-python
 git clone https://github.com/kzkymur/transition.git reactransition
 ```
 
-##start
+## start
 ```bash
 python3 manage.py runserver
 ```
