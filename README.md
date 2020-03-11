@@ -15,5 +15,5 @@ git clone https://github.com/kzkymur/transition.git reactransition
 
 ## Start
 ```bash
-python3 manage.py runserver
+python3 reactransition/manage.py runserver
 ```
