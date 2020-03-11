@@ -17,7 +17,3 @@ git clone https://github.com/kzkymur/transition.git reactransition
 ```bash
 python3 manage.py runserver
 ```
-
-
-
-This project uses Django, React, PyTorch and OpenCV. Thank you for their authors.
