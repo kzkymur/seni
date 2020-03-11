@@ -1,5 +1,5 @@
 # transition
-This is a editor using deep learning. You can experience neural style transfer, scenery image to painting like romanticism, impressionism, by VanGogh, by Redon and Ukiyoe. Furthermore you can interpolate between two transfered images and download it in mp4. Please try it.
+This is a apprication like editor using deep learning. You can experience neural style transfer, scenery image to painting like romanticism, impressionism, by VanGogh, by Redon and Ukiyoe. Furthermore you can interpolate between two transfered images and download it in mp4. Please try it.
 
 ## Install
 ```bash
