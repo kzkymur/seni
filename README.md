@@ -7,9 +7,9 @@ python3 -m venv <any directory name>
 source <any directory name>/bin/activate
 cd <any directory name>
 pip3 install django==2.2.6
-pip3 install torch
-pip3 install torchvision
-pip3 install opencv-python
+pip3 install torch==1.2.0
+pip3 install torchvision==0.4.0
+pip3 install opencv-python==4.1.1.26
 git clone https://github.com/kzkymur/transition.git transition
 
 ```
