@@ -6,7 +6,7 @@ This is a apprication like editor using deep learning. You can experience neural
 python3 -m venv <any directory name>
 source <any directory name>/bin/activate
 cd <any directory name>
-pip3 install django
+pip3 install django==2.2.6
 pip3 install torch
 pip3 install torchvision
 pip3 install opencv-python
