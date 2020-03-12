@@ -1,0 +1,42 @@
+.panel1 {
+    border-style       : solid;
+    border-color       : white;
+    border-width       : 1px;
+    display            : block;
+    position           : relative;
+    float              : left;
+    font-family        : arial;
+    margin-left        : 3.33%;
+    margin-bottom      : 3.33%;
+    width              : 26.64%;
+}
+
+.coefficientRange {
+    -webkit-appearance : none;
+    appearance         : none;
+    color              : white;
+    background-color   : white;
+    height             : 1px;
+    display            : inline-block;
+    position           : relative;
+    float              : left;
+}::-webkit-slider-thumb {
+    -webkit-appearance : none;
+    appearance         : none;
+    background         : white;
+    height             : 10px;
+    width              : 10px;
+    border-radius      : 50%;
+ }
+
+.rangeValue{
+    float              : left;
+    display            : block;
+    position           : relative;
+}
+
+.icon{
+    float              : left;
+    display            : block;
+    position           : relative;
+}

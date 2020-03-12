@@ -1,0 +1,18 @@
+.rangeValueDiv{
+    position    : relative;
+    float       : left;
+    font-family : arial;
+}
+
+.coefficientRange{
+    width      : 66.6%;
+    margin-top : 7.99%;
+}
+
+.icon{
+    width      : 16.7%;
+}
+
+.rangeValue{
+    width      : 16.7%;
+}

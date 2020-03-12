@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+{% load static %}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Transition</title>
+    <link rel="icon" href="{% static "pictures/icons/favicon.ico" %}">
+</head>
+<body>
+  <div class="container">
+      <div id="app" class="columns"><!-- React --></div>
+  </div>
+  <form action="{% url 'reactransition:index' %}" method="POST" enctype="multipart/form-data" id="img_form">
+      {% csrf_token %}
+      {{ form }}
+      <input type="submit" value="投稿" />
+  </form>
+</body>
+<script src="{% static "reactransition/main.js" %}"></script>
+</html>
