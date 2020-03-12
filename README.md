@@ -10,10 +10,10 @@ pip3 install django
 pip3 install torch
 pip3 install torchvision
 pip3 install opencv-python
-git clone https://github.com/kzkymur/transition.git reactransition
+git clone https://github.com/kzkymur/transition.git transition
 ```
 
 ## Start
 ```bash
-python3 reactransition/manage.py runserver
+python3 transition/manage.py runserver
 ```
