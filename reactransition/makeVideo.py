@@ -15,7 +15,7 @@ def make_video(interpolated_path_list_joined_by_sharp, periodic_time, doTurn):
 
         video.write(img)
 
-    if doTurn:
+    if doTurn == 'true':
         interpolated_path_list.reverse()
         for interpolated_path in interpolated_path_list:
             interpolated_name = './reactransition' + interpolated_path
