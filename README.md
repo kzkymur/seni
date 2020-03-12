@@ -16,5 +16,6 @@ git clone https://github.com/kzkymur/transition.git transition
 
 ## Start
 ```bash
-python3 transition/manage.py runserver
+cd transition
+python3 manage.py runserver
 ```
