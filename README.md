@@ -10,6 +10,7 @@ pip3 install django==2.2.6
 pip3 install torch==1.2.0
 pip3 install torchvision==0.4.0
 pip3 install opencv-python==4.1.1.26
+pip3 install pillow== 6.2.1
 git clone https://github.com/kzkymur/transition.git transition
 
 ```
