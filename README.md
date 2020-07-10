@@ -22,8 +22,15 @@ cd transition
 python3 manage.py runserver
 ```
 
-## Sample
-[![alt](https://img.youtube.com/vi/3Nu6cqZ-x2o/0.jpg)](https://www.youtube.com/watch?v=3Nu6cqZ-x2o)
+## Sample and How to use(Youtube)
+Mt.tsukuba 4 seasons
+[![Mt.tsukuba 4 seasons](https://img.youtube.com/vi/3Nu6cqZ-x2o/0.jpg)](https://www.youtube.com/watch?v=3Nu6cqZ-x2o)
+
+Gogh to Ukiyoe
+[![Gogh to Ukiyoe](https://img.youtube.com/vi/vop6Cckotj4/0.jpg)](https://www.youtube.com/watch?v=vop6Cckotj4)
+
+How to use
+[![How to use](https://img.youtube.com/vi/foKKVc3ZS_0/0.jpg)](https://www.youtube.com/watch?v=foKKVc3ZS_0)
 
 ## Credit
 https://arxiv.org/abs/1703.10593
